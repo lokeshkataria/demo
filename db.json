@@ -22,7 +22,15 @@
             "country": "Australia",
             "phone": "(02) 9061 3640",
             "email": "studioaus059@orangetheoryfitness.com.au"
-          },
+          }
+         ]
+      },
+      {
+        "studioUUId": "3526",
+        "studioName": "Brookvale",
+        "studioNumber": "(02) 9061 3640",
+        "studioStatus": "yes",
+        "locations": [
           {
             "locationUUId": "3526",
             "locationName": "Miranda",
@@ -37,7 +45,15 @@
             "country": "Australia",
             "phone": "(02) 9139 2300",
             "email": "studioaus033@orangetheoryfitness.com.au"
-          },
+          }
+         ]
+      },
+      {
+        "studioUUId": "3497",
+        "studioName": "Brookvale",
+        "studioNumber": "(02) 9061 3640",
+        "studioStatus": "yes",
+        "locations": [
           {
             "locationUUId": "3497",
             "locationName": "Potts Point",
@@ -52,7 +68,15 @@
             "country": "Australia",
             "phone": "(02) 9139 2090",
             "email": "studioaus024@orangetheoryfitness.com.au"
-          },
+          }
+         ]
+      },
+      {
+        "studioUUId": "3138",
+        "studioName": "Brookvale",
+        "studioNumber": "(02) 9061 3640",
+        "studioStatus": "yes",
+        "locations": [
           {
             "locationUUId": "3138",
             "locationName": "Haberfield - Leichhardt",
@@ -67,7 +91,15 @@
             "country": "Australia",
             "phone": "(02) 9798 4869",
             "email": "Studioaus008@orangetheoryfitness.com.au"
-          },
+          }
+         ]
+      },
+      {
+        "studioUUId": "3122",
+        "studioName": "Brookvale",
+        "studioNumber": "(02) 9061 3640",
+        "studioStatus": "yes",
+        "locations": [
           {
             "locationUUId": "3122",
             "locationName": "St Leonards",
