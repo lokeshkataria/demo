@@ -1,12 +1,3 @@
 {
-  "pages": {
-    "data": [
-      {
-        "studioID":"AUS024",
-        "studioURL":"/otf/en_au/homepage/locations/south-yarra.html",
-        "studioPromoText":"Promo Text"
-      }
-    ],
-    "status":"Success"
-  }
+  "pages": "test"
 }
